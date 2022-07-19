@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syrent</h1>
-<h3 align="center">Java/Kotlin Developer.</h3>
+<h3 align="center">Java/Kotlin/JavaScript Developer.</h3>
 
 - 🔭 I’m currently working on [QPixel](https://qpixel.ir/)
 
