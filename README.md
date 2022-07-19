@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [QPixel](https://qpixel.ir/)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **syrent2356@gmail.com**
 
