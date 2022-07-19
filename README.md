@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syrent</h1>
 <h3 align="center">Java/Kotlin/JavaScript Developer.</h3>
 
-- 🔭 I’m currently working on [QPixel](https://qpixel.ir/)
+- 🔭 I’m currently working on [Personal Projects](https://syrent.ir/)
 
 - 🌱 I’m currently learning **React**
 
