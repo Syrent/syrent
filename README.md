@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Personal Projects](https://syrent.ir/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **syrent2356@gmail.com**
 
