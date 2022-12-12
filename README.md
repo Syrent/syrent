@@ -71,6 +71,8 @@
 
 <br clear="both">
 
+<a href=#><img src="github-snake.svg"></a>
+
 ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
