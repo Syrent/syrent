@@ -21,6 +21,8 @@ jobs:
     timeout-minutes: 10
     
     steps:
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v2.1.0
       - uses: Platane/snk@v2
         with:
           # github user name to read the contribution graph from (**required**)
